@@ -11,8 +11,7 @@ The model's insights will enhance the understanding of arrhythmia mechanisms and
 ### Coding Files
 
 #### Discrete Models
-* diffusion2D: 2D grid with ion diffusion visualization
-* potential2D: potential map of 2D grid
 * diffpotent2D: both 2D grid and potential map
+* diffusion2D: 3-dimensional visualization of 2D ion diffusion grid 
 
 * diffusion3D: 3D (cube) of ion diffusion with potentials
