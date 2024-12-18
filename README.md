@@ -19,4 +19,4 @@ The model's insights will enhance the understanding of arrhythmia mechanisms and
 
 #### Error-Time Graph
 * final2D: 2D Discrete & Continuous Models, Error-Time Graph
-* final3D: 3D Discrete & Continuous Models, Error-Time Graph
+* final3D: 3D Discrete & Continuous Models, Error-Time Graph (WIP)
