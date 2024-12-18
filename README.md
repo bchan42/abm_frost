@@ -15,3 +15,8 @@ The model's insights will enhance the understanding of arrhythmia mechanisms and
 * diffusion2D: 3-dimensional visualization of 2D ion diffusion grid 
 
 * diffusion3D: 3D (cube) of ion diffusion with potentials
+
+
+#### Error-Time Graph
+* final2D: 2D Discrete & Continuous Models, Error-Time Graph
+* final3D: 3D Discrete & Continuous Models, Error-Time Graph
